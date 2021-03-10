@@ -1,0 +1,24 @@
+{
+  "name": "jsonld-nester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "NODE_OPTIONS=--experimental-vm-modules npx jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbeeke/jsonld-nester.git"
+  },
+  "author": "Daniel Beeke",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/danielbeeke/jsonld-nester/issues"
+  },
+  "homepage": "https://github.com/danielbeeke/jsonld-nester#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
